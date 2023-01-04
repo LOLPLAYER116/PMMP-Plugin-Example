@@ -2,7 +2,7 @@
 
 namespace Name\Core\Server;
 
-use pocktemine\plugin\PluginBase;
+use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase {
 
